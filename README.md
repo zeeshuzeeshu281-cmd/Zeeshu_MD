@@ -113,7 +113,7 @@
 ### 🔥 TRY JAWAD MD MINI
 <!-- Cyber Red -->
 <p align="center">
-  <a href="https://jawadtech.vercel.app">
+  <a href="https://zeeshu.vercel.app">
     <img src="https://img.shields.io/badge/🚀_START_JAWAD_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="JAWAD MD Mini Cyber Red"/>
   </a>https://whatsapp.com/channel/0029VbCC8HCDzgT4QcBW5R39
 </p>
