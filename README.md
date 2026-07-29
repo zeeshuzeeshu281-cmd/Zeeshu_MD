@@ -29,7 +29,7 @@
 </p>
     <img src="https://komarev.com/ghpvc/?username=JawadTechYT&label=Views&color=9D00FF&style=flat" alt="Profile Views" />
     <img src="https://img.shields.io/github/stars/JawadTechYT/KHAN-MD?color=9D00FF&label=Stars&style=flat" alt="GitHub Stars" />
-    <img src="https://img.shields.io/github/forks/JawadTechYT/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />
+    <img src="https://img.shields.io/github/forks/JawadTechYT/KHAN-MD?style=flat&color=1E88E5&logo=github&logoColor=white&label=Forks" alt="GitHub Forks" />https://whatsapp.com/channel/0029VbCC8HCDzgT4QcBW5R39
     <img src="https://img.shields.io/github/followers/JawadTechYT?style=flat&color=43A047&logo=github&logoColor=white&label=Followers" alt="GitHub Followers" />
     <img src="https://img.shields.io/github/last-commit/JawadTechYT/KHAN-MD?style=flat&color=8E24AA&logo=git&logoColor=white&label=Last%20Commit" alt="Last Commit" />
     <img src="https://img.shields.io/github/repo-size/JawadTechYT/KHAN-MD?style=flat&color=0097A7&logo=database&logoColor=white&label=Repo%20Size" alt="Repo Size" />
@@ -115,7 +115,7 @@
 <p align="center">
   <a href="https://jawadtech.vercel.app">
     <img src="https://img.shields.io/badge/🚀_START_JAWAD_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="JAWAD MD Mini Cyber Red"/>
-  </a>
+  </a>https://whatsapp.com/channel/0029VbCC8HCDzgT4QcBW5R39
 </p>
 
 <div align="center">
@@ -200,11 +200,11 @@
 | <b>🌐 Web Pairing</b>              | Active ✅   |
 | <b>🎨 Sticker Maker</b>            | Active ✅   |
 
-</div>
+</div>https://whatsapp.com/channel/0029VbCC8HCDzgT4QcBW5R39
 
 <h2 align="center" style="color:#25D366; font-family:monospace; font-size:26px;">
 🪀 OFFICIAL SUPPORT CHANNEL
-</h2>
+</h2>https://whatsapp.com/channel/0029VbCC8HCDzgT4QcBW5R39
 
 <div align="center" style="margin-top: 15px; margin-bottom: 15px; background:#0e0e0e; padding: 20px; border-radius: 12px; border: 2px solid #25D366; box-shadow: 0 0 15px #25D366; width: 95%;">
 
