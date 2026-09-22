@@ -226,8 +226,8 @@
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
 
-<a href="https://github.com/ZeeshuTechYT" target="_blank">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=ZeeshuTechYT&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
+<a href="https://github.com/JawadTechYT" target="_blank">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=JawadTechYT&show_icons=true&theme=tokyonight&border_color=9D00FF&title_color=00ffff&icon_color=00ffff&text_color=ffffff" width="420" alt="GitHub Stats"/>
 </a>
 
 </div>
