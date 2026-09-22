@@ -95,7 +95,7 @@
 
 ### 🌊 GET SESSION ID
 <p align="center">
-  <a href="https://khanmd-pairx.onrender.com">
+  <a href="https://zeeshumd-pairx.onrender.com">
     <img src="https://img.shields.io/badge/💫_PAIR_CODE_GENRATER-4F46E5?style=for-the-badge&logo=codeberg&logoColor=white&labelColor=1e1b4b" alt="Long Session"/>
   </a>
 </p>
@@ -106,14 +106,14 @@
 
 ## 📡 DEPLOYMENT SITES
 
-<p align="center">Deploy your <strong>KHAN-MD Bot</strong> with one click on your favorite hosting platforms.</p>
+<p align="center">Deploy your <strong>ZEESHU-MD Bot</strong> with one click on your favorite hosting platforms.</p>
 
 <div align="center">
 
 ### 🔥 TRY JAWAD MD MINI
 <!-- Cyber Red -->
 <p align="center">
-  <a href="https://zeeshu.vercel.app">
+  <a href="https://Jawad.vercel.app">
     <img src="https://img.shields.io/badge/🚀_START_JAWAD_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="JAWAD MD Mini Cyber Red"/>
   </a>https://whatsapp.com/channel/0029VbCC8HCDzgT4QcBW5R39
 </p>
@@ -221,7 +221,7 @@
 ---
 
 <h2 align="center" style="color:#9D00FF; font-family:monospace; font-size:26px;">
-🧾 PROJECT STATS KHAN-MD
+🧾 PROJECT STATS ZEESHU-MD
 </h2>
 
 <div align="center" style="margin-top: 12px; margin-bottom: 20px; background:#0b0b0b; padding: 25px; border-radius: 12px; border: 2px solid #9D00FF; box-shadow: 0 0 20px #9D00FF; width: 95%;">
